@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature", "id": "site-001", "properties": {"name": "Demo Point A", "category": "sample"}, "geometry": {"type": "Point", "coordinates": [3.947, 7.843]}},
+    {"type": "Feature", "id": "site-002", "properties": {"name": "Demo Point B", "category": "sample"}, "geometry": {"type": "Point", "coordinates": [3.955, 7.852]}},
+    {"type": "Feature", "id": "site-003", "properties": {"name": "Demo Route", "category": "sample"}, "geometry": {"type": "LineString", "coordinates": [[3.947, 7.843], [3.955, 7.852]]}}
+  ]
+}
